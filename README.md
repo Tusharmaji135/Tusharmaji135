@@ -1,5 +1,19 @@
-# 💫 About Me:
-Web Developer | Crafting Responsive & Dynamic Web Experiences<br>💻 Skills:<br><br>Proficient in HTML, CSS, JavaScript, and Node.js<br>Version control expertise with Git and GitHub<br>Building responsive and interactive web applications<br>🚀 Currently Learning:<br><br>Data Structures and Algorithms (DSA) to enhance problem-solving skills<br>MERN Stack Development to create full-stack web applications<br>🔧 Passionate About:<br><br>Turning creative ideas into functional and user-friendly websites<br>Staying updated with the latest web development trends<br>📈 Committed to growing as a developer and delivering impactful projects!
+# 💫 About Me  
+
+Web Developer passionate about crafting responsive and dynamic web experiences.  
+
+## 💻 Skills  
+- Proficient in **HTML**, **CSS**, **JavaScript**, **Node.js**  
+- Expertise in **Git** and **GitHub**  
+- Building interactive and user-friendly applications  
+
+## 🚀 Currently Learning  
+- **Data Structures and Algorithms (DSA)** to enhance problem-solving skills  
+- **MERN Stack** for full-stack development  
+
+## 📈 Passion  
+Dedicated to growth, innovation, and delivering impactful projects!  
+
 
 
 ## 🌐 Socials:
