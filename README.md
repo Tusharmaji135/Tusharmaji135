@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-💫 About Me<br>Web Developer passionate about crafting responsive and dynamic web experiences.<br><br>
+<br>Web Developer passionate about crafting responsive and dynamic web experiences.<br><br>
 
 💻 **Skills**<br>Proficient in HTML, CSS, JavaScript, Node.js<br>Expertise in Git and GitHub<br>Building interactive and user-friendly applications<br><br>
 
