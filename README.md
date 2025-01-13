@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 💫 About Me:
 💫 About Me<br>Web Developer passionate about crafting responsive and dynamic web experiences.<br><br>
@@ -16,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tusharmaji) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25646886) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/m_tushu6) 
-
+<div align="center">
 ---
 
 # 💻 Tech Stack:
