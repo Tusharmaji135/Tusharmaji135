@@ -1,5 +1,8 @@
 # 💫 About Me:
-💫 About Me<br>Web Developer passionate about crafting responsive and dynamic web experiences.<br><br>💻 Skills<br>Proficient in HTML, CSS, JavaScript, Node.js<br>Expertise in Git and GitHub<br>Building interactive and user-friendly applications<br>🚀 Currently Learning<br>Data Structures and Algorithms (DSA) to enhance problem-solving skills<br>MERN Stack for full-stack development<br>📈 Passion<br>Dedicated to growth, innovation, and delivering impactful projects!
+💫 About Me<br>Web Developer passionate about crafting responsive and dynamic web experiences.<br><br>
+💻 Skills<br>Proficient in HTML, CSS, JavaScript, Node.js<br>Expertise in Git and GitHub<br>Building interactive and user-friendly applications<br>
+🚀 Currently Learning<br>Data Structures and Algorithms (DSA) to enhance problem-solving skills<br>MERN Stack for full-stack development<br>
+📈 Passion<br>Dedicated to growth, innovation, and delivering impactful projects!
 
 
 ## 🌐 Socials:
